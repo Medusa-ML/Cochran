@@ -1,6 +1,29 @@
-# medusa-ml-template
+# Cochran
 
-a template project for machine learning experiments, using dockerized tensorflow environments and data downloaders
+The legal document scoring model
+
+<img src="./docs/Cochran.jpeg" alt="Cochran Logo"/>
+
+
+# TODOs 
+
+* [API Official](https://www.courtlistener.com/api/rest-info/)
+* [API Guide/Blog](https://github.com/tedrand/claimkraken-netlify-cms/blob/57cc7e7d768ccbe7de09c7476c8ba58ff79e31d2/src/pages/blog/2021-08-09-tracking-cafc-opinions-with-courtlistener-and-python-part-1.md)
+* Connect to API and make downloader, experiment with courts
+
+# Data Sources
+
+* [Court Listener](https://www.courtlistener.com/api/bulk-info/)
+* [US Court Records](https://www.uscourts.gov/court-records)
+* [Federal Court Cases](https://www.icpsr.umich.edu/web/NACJD/series/72)
+* [Justice.gov](https://www.justice.gov/jmd/ls/state)
+* [Justia](https://dockets.justia.com/)
+* [Federal Records Center](https://www.archives.gov/frc/atlanta)
+* [Supreme Court](https://www.supremecourt.gov/docket/docket.aspx)
+* [UCLA Law Library](https://libguides.law.ucla.edu/dockets/federal)
+* [VA Courts]( https://www.vacourts.gov/courtadmin/library/federal.html)
+* [Data.gov](https://data.gov)
+
 
 # Requirements
 
