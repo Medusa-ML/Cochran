@@ -10,6 +10,7 @@ The legal document scoring model
 * [API Official](https://www.courtlistener.com/api/rest-info/)
 * [API Guide/Blog](https://github.com/tedrand/claimkraken-netlify-cms/blob/57cc7e7d768ccbe7de09c7476c8ba58ff79e31d2/src/pages/blog/2021-08-09-tracking-cafc-opinions-with-courtlistener-and-python-part-1.md)
 * Connect to API and make downloader, experiment with courts
+* [Brazil?](https://huggingface.co/datasets/joelito/brazilian_court_decisions)
 
 # Data Sources
 
