@@ -4,6 +4,9 @@ secret.py
 # Data Folders
 data/
 
+# Trash
+.Trash-1000/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
